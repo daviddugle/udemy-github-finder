@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/udemy-github-finder/static/css/main.07e8a6f9.chunk.css",
+    "main.js": "/udemy-github-finder/static/js/main.69c5a411.chunk.js",
+    "main.js.map": "/udemy-github-finder/static/js/main.69c5a411.chunk.js.map",
+    "runtime-main.js": "/udemy-github-finder/static/js/runtime-main.803eac83.js",
+    "runtime-main.js.map": "/udemy-github-finder/static/js/runtime-main.803eac83.js.map",
+    "static/js/2.fce3de77.chunk.js": "/udemy-github-finder/static/js/2.fce3de77.chunk.js",
+    "static/js/2.fce3de77.chunk.js.map": "/udemy-github-finder/static/js/2.fce3de77.chunk.js.map",
+    "static/js/3.989525f3.chunk.js": "/udemy-github-finder/static/js/3.989525f3.chunk.js",
+    "static/js/3.989525f3.chunk.js.map": "/udemy-github-finder/static/js/3.989525f3.chunk.js.map",
+    "index.html": "/udemy-github-finder/index.html",
+    "static/css/main.07e8a6f9.chunk.css.map": "/udemy-github-finder/static/css/main.07e8a6f9.chunk.css.map",
+    "static/js/2.fce3de77.chunk.js.LICENSE.txt": "/udemy-github-finder/static/js/2.fce3de77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.803eac83.js",
+    "static/js/2.fce3de77.chunk.js",
+    "static/css/main.07e8a6f9.chunk.css",
+    "static/js/main.69c5a411.chunk.js"
+  ]
+}
